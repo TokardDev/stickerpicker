@@ -1,6 +1,14 @@
 {
   "packs": [
-    "evanbykihu.json"
+    "evanbykihu.json",
+    "Ravens_by_Pulex.json",
+    "Carrot18977NaL.json",
+    "SkunkHotel.json",
+    "Macron.json",
+    "OlliAlpaca.json",
+    "kenketbycro.json",
+    "KeryTheMajextic.json",
+    "tokard2.json"
   ],
   "homeserver_url": "https://chat.tkrd.zip"
 }
